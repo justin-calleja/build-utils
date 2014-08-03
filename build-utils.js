@@ -1,6 +1,6 @@
 
-function BuildUtils() {
-    this.toMinSuffixMap = {
+function BuildUtils(toMinSuffixMap) {
+    this.toMinSuffixMap = toMinSuffixMap || {
         "js": "min.js",
         "css": "min.css"
     };
