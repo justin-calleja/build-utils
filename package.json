@@ -1,0 +1,11 @@
+{
+  "name": "build-utils",
+  "version": "0.0.1",
+  "description": "Helper module",
+  "main": "build-utils.js",
+  "scripts": {
+    "test": "nodeunit test"
+  },
+  "author": "Justin Calleja <calleja.justin@gmail.com>",
+  "license": "MIT"
+}
